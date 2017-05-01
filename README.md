@@ -12,7 +12,7 @@ Java WebSocket client and server for 'sniffing' Blitzortung lightning strike dat
   - ???
   
 * dependencies:
-  - org.java-websocket
+  - org.java-websocket - https://github.com/TooTallNate/Java-WebSocket
 
 * thanks to:
   - Blitzortung - http://en.blitzortung.org
